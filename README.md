@@ -2,3 +2,6 @@
 This is a test on how to use and work with Git
 
 New line added
+
+# About the Project
+**Some description**
